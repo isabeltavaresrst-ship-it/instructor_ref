@@ -1,0 +1,21 @@
+employee_ID,first_name,last_name,department,hired_date
+1,James,Smith,Engineering,1/15/2023
+2,Maria,Garcia,Marketing,2/10/2023
+3,Robert,Johnson,Sales,3/5/2023
+4,Linda,Williams,Customer Support,3/22/2023
+5,Michael,Brown,Engineering,4/11/2023
+6,Elizabeth,Jones,Sales,5/30/2023
+7,David,Miller,Marketing,6/14/2023
+8,Jennifer,Davis,Customer Support,7/2/2023
+9,William,Rodriguez,Engineering,8/19/2023
+10,Susan,Martinez,Sales,9/5/2023
+11,Joseph,Hernandez,Marketing,9/28/2023
+12,Margaret,Lopez,Customer Support,10/15/2023
+13,Thomas,Gonzalez,Engineering,11/2/2023
+14,Sarah,Wilson,Sales,11/20/2023
+15,Charles,Anderson,Marketing,12/5/2023
+16,Jessica,Thomas,Customer Support,1/10/2024
+17,Christopher,Taylor,Engineering,2/3/2024
+18,Karen,Moore,Sales,2/25/2024
+19,Daniel,Jackson,Marketing,3/12/2024
+20,Nancy,Martin,Customer Support,4/1/2024
